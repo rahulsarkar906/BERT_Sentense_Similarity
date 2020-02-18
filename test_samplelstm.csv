@@ -1,0 +1,27 @@
+test_id,RefAnswer,StudentAnswer,is_similar,Marks,Justification,Complexity
+0,A barcode is a series of light and dark bars of differing widths ,"Made up of country of origin code, manufacturer code, the product code, a
+check digit.",,1,1,easy
+1,With a code number printed underneath,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,1,2,tough
+2,"Made up of country of origin code, manufacturer code, the product code, a check digit.",A barcode is a bar with product code printed. It is attached to every product at retail shops.,,0,0,tough
+3,,It is a machine readable numbers arranged in a sequence comprising of parallel lines of different widths on a package. This is used for electronic scanning of goods at checkout to register price.,,1,1,tough
+4,,Barcode is a unique series of parallel lines printed on a product. It is used to register check out price and stock management.,,1,1,tough
+5,,Barcode uses a phone's camera to turn itself into a barcode scanner to find the best deal.,,0,0,easy
+6,,"A barcode is a small image of lines and spaces attached to retail store items. It is used to identify products, location and manufacturer.",,1,3,tough
+7,,A barcode consists of black vertical lines that can be seen at the right corner of the back of the product. It is used for product screening.,,0,0,tough
+8,,A barcode is a code present on the back of the product which identifies the product.,,0,0,easy
+9,,A barcode is a way to encode information visually that a machine can read. The combination of black and white bars (elements) represents a code for product identification.,,1,1,tough
+10,,Barcodes are applied to products for quick identification electronically. It is a series of light and dark vertical bars representing a machine readable code number.,,2,"1,2",tough
+11,,A barcode is a series of white and black bars of differing widths. It is pasted on the products in a retail store for easy information of any product.,,1,1,medium
+12,,A barcode is represnted by a sequence of light and dark bars of different widths. Barcode is helpful in tagging the prices of products.,,1,1,medium
+13,,A barcode is a series of light and dark bars of differing thickness.,,1,1,medium
+14,,Barcode is a kind of code with bars with a code number printed underneath.,,1,2,easy
+15,,Barcode is a series of bars with a code number printed at the bottom.,,1,2,medium
+16,,A barcode is a code with bars and a number printed at the bottom.,,1,2,medium
+17,,"Barcode is a code made up of country of origin code, manufacturer code, the product code, a check digit.",,1,3,easy
+18,,"A barcode is composed of country code, manufacturer code, the product code, a check digit.",,1,3,medium
+19,,"A barcode is composed of manufacturer code, country of origin code, and the product code.",,1,3,medium
+20,,"A barcode consists of light and dark bars of different widths, with a code number printed below the bars.",,1,"1, 2",medium
+21,,"A barcode is a series of light and dark bars of differing widths with a code number printed underneath made up of country of origin code, manufacturer code, the product code, a check digit.",,2,"1, 2, 3",easy
+22,,A barcode is an electronic strip with black vertical line and some numbers printed below.,,1,2,tough
+23,,A barcode is a series of bars. It has a lot of product information stored.,,0,,medium
+24,,Barcodes are useful to have product information instead of physical stickers with price and other information mentoned on it.,,0,,medium

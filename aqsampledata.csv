@@ -1,0 +1,66 @@
+id,RefAnswer,StudentAnswer,is_similar,qid1,qid2,Marks,Justification,Complexity
+0,A barcode is a series of light and dark bars of differing widths ,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,1,1,2,1,2,tough
+1,With a code number printed underneath,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,0,3,4,0,0,tough
+2,"Made up of country of origin code, manufacturer code, the product code, a check digit.",A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,1,5,6,1,1,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,3,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1,2",tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,3,"1,2,3",tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1,2",easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1,3",tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,0,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,3,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,easy
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,3,3,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,3,3,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,2,medium
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,3,3,tough
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,No match with any preferred answer,
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,1,
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1, 2",
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,3,
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,0,No match with any preferred answer,
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1,3",
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,1,3,
+,,A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,,,,2,"1, 2",medium
+,,,,,,1,1,easy
+,,,,,,1,2,tough
+,,,,,,0,0,tough
+,,,,,,1,1,tough
+,,,,,,1,1,tough
+,,,,,,0,0,easy
+,,,,,,1,3,tough
+,,,,,,0,0,tough
+,,,,,,0,0,easy
+,,,,,,1,1,tough
+,,,,,,2,"1,2",tough
+,,,,,,1,1,medium
+,,,,,,1,1,medium
+,,,,,,1,1,medium
+,,,,,,1,2,easy
+,,,,,,1,2,medium
+,,,,,,1,2,medium
+,,,,,,1,3,easy
+,,,,,,1,3,medium
+,,,,,,1,3,medium
+,,,,,,1,"1, 2",medium
+,,,,,,2,"1, 2, 3",easy
+,,,,,,1,2,tough
+,,,,,,0,,medium
+,,,,,,0,,medium

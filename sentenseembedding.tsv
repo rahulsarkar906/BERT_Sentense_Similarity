@@ -1,0 +1,67 @@
+id	#1 RefAnswer	#2 StudentAnswer	#1 Marks	#2 Justification	#2 Complexity
+0	A barcode is a series of light and dark bars of differing widths 	A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.	1	2	tough
+1	With a code number printed underneath	A barcode is a bar with product code printed. It is attached to every product at retail shops.	0	0	tough
+2	Made up of country of origin code, manufacturer code, the product code, a check digit.	It is a machine readable numbers arranged in a sequence comprising of parallel lines of different widths on a package. This is used for electronic scanning of goods at checkout to register price.	1	1	tough
+3		Barcode is a unique series of parallel lines printed on a product. It is used to register check out price and stock management.	1	1	tough
+4		Barcode uses a phone's camera to turn itself into a barcode scanner to find the best deal.	0	0	easy
+5		A barcode is a small image of lines and spaces attached to retail store items. It is used to identify products, location and manufacturer.	1	3	tough
+6		A barcode consists of black vertical lines that can be seen at the right corner of the back of the product. It is used for product screening.	0	0	tough
+7		A barcode is a code present on the back of the product which identifies the product.	0	0	easy
+8		A barcode is a way to encode information visually that a machine can read. The combination of black and white bars (elements) represents a code for product identification.	1	1	tough
+9		Barcodes are applied to products for quick identification electronically. It is a series of light and dark vertical bars representing a machine readable code number.	2	1,2	tough
+10		A barcode is a series of dark bars seperated by gaps, both the bars and gaps being of different widths. They can be used to identify product details such as the product, manufacturer and the coutry of origin using predefined alphanumeric codes for each.	3	1,2,3	tough
+11		A barcode is a sticker on products which is scanned while billing to see which product is bought and what is the price.	0	0	medium
+12		A barcode is used to keep track of the inventory and come in various shapes and sizes and to identify the product being sold	0	0	easy
+13		Barcodes are black and white bars with a code number beneath it to identify the products and prices.	2	1,2	easy
+14		A barcode is made of dark and light bars which can be of different widths used by manufacturers for unique code numbers.	1	1	easy
+15		A barcode holds information such as where the product comes from, who the manufacturer is and what is the product. They are made of bars, black and white of different widths to hold the information.	2	1,3	tough
+16		a barcode is a sticker with dark lines and spaces placed on products in a store to identify the products.	1	1	medium
+17		a barcode is a sticker scanned at the checkout to bill the customer as it contains price information.	0	0	medium
+18		A barcode has information about the products such as what they are and where they came from and who made them.	1	3	tough
+19		A barcode is a method of representing data in a visual, machine-readable form	1	1	easy
+20		A barcode is a square or rectangular image consisting of a series of parallel black lines and white spaces of varying widths that can be read by a scanner	1		medium
+21		Barcodes became commercially successful when they were used to automate supermarket checkout systems, a task for which they have become almost universal.	2	2	medium
+22		A barcode is a machine-readable code in the form of numbers and a pattern of parallel lines of varying widths, printed on a commodity and used especially for stock control	1	1	easy
+23		A�barcode�is a set of lines of different widths and sizes representing data, that when read help identify the scanned object	2	2	medium
+24		Barcodes are often used to help organize and index information or prices about an object	2	2	medium
+25		Barcodes used by the U.S. postal service that helps speed the delivery of mail is another perfect example of how a barcode could be used. The picture is an example of what a barcode of an address	3	3	tough
+26		The barcode was invented by Norman Joseph Woodland and Bernard Silver and patented in the US in 1951	3	3	tough
+27		A bar code is the small image of lines bars and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location.	2	2	medium
+28		A barcode is an image consisting of a series of parallel black and white lines that, when scanned, relay information about a product	2	2	medium
+29		A  barcode is a image with black and white lines which  are read by optical devices such as a barcode reader or scanner. 	2	2	medium
+30		A barcode is used to automate the transfer of product information, such as its price, from the product to an electronic system such as a cash register.	2	2	medium
+31		A barcode allow retailers to easily track inventory.	3	3	tough
+32		It is a symbol printed on every product to uniquely identify it.	0	No match with any preferred answer	
+33		A barcode uniquely identifies products with information about country of origin, manufacturer and product code. It consists of bars with spaces 	1	1	
+34		Printed in black and white bars with different widths, the barcode gives information about the product, manufacturer and the country of manufacture. This helps in identifying the individual items easily 	2	1, 2	
+35		it is a printed set of black lines with a number underneath	1	3	
+36		When you scan the bar code at the check out counter the price of the product is automatically detected	0	No match with any preferred answer	
+37		A barcode is printed on the cover of the package to easily detect the item. Represented as a set of dark bars, the barcode with a code number gives details of the item being purchased	2	1,3	
+38		barcodes help in quick scanning of the product. Along with the code number (printed below the barcode) a barcode is a unique identifier of the product	1	3	
+39		A barcode consists of light and dark bars of different widths, with a code number printed below the bars.	2	1, 2	medium
+40		Made up of country of origin code, manufacturer code, the product code, a
+check digit.	1	1	easy
+41		A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.	1	2	tough
+42		A barcode is a bar with product code printed. It is attached to every product at retail shops.	0	0	tough
+43		It is a machine readable numbers arranged in a sequence comprising of parallel lines of different widths on a package. This is used for electronic scanning of goods at checkout to register price.	1	1	tough
+44		Barcode is a unique series of parallel lines printed on a product. It is used to register check out price and stock management.	1	1	tough
+45		Barcode uses a phone's camera to turn itself into a barcode scanner to find the best deal.	0	0	easy
+46		A barcode is a small image of lines and spaces attached to retail store items. It is used to identify products, location and manufacturer.	1	3	tough
+47		A barcode consists of black vertical lines that can be seen at the right corner of the back of the product. It is used for product screening.	0	0	tough
+48		A barcode is a code present on the back of the product which identifies the product.	0	0	easy
+49		A barcode is a way to encode information visually that a machine can read. The combination of black and white bars (elements) represents a code for product identification.	1	1	tough
+50		Barcodes are applied to products for quick identification electronically. It is a series of light and dark vertical bars representing a machine readable code number.	2	1,2	tough
+51		A barcode is a series of white and black bars of differing widths. It is pasted on the products in a retail store for easy information of any product.	1	1	medium
+52		A barcode is represnted by a sequence of light and dark bars of different widths. Barcode is helpful in tagging the prices of products.	1	1	medium
+53		A barcode is a series of light and dark bars of differing thickness.	1	1	medium
+54		Barcode is a kind of code with bars with a code number printed underneath.	1	2	easy
+55		Barcode is a series of bars with a code number printed at the bottom.	1	2	medium
+56		A barcode is a code with bars and a number printed at the bottom.	1	2	medium
+57		Barcode is a code made up of country of origin code, manufacturer code, the product code, a check digit.	1	3	easy
+58		A barcode is composed of country code, manufacturer code, the product code, a check digit.	1	3	medium
+59		A barcode is composed of manufacturer code, country of origin code, and the product code.	1	3	medium
+60		A barcode consists of light and dark bars of different widths, with a code number printed below the bars.	1	1, 2	medium
+61		A barcode is a series of light and dark bars of differing widths with a code number printed underneath made up of country of origin code, manufacturer code, the product code, a check digit.	2	1, 2, 3	easy
+62		A barcode is an electronic strip with black vertical line and some numbers printed below.	1	2	tough
+63		A barcode is a series of bars. It has a lot of product information stored.	0		medium
+64		Barcodes are useful to have product information instead of physical stickers with price and other information mentoned on it.	0		medium
